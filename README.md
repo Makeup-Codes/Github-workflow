@@ -1,9 +1,7 @@
-# Github-workflow
-
 So আমরা অনেকেই এখনো আমাদের github workflow টা নিয়ে পুরোপুরি ভাবে clear না তাই
-আমি কিভাবে কি করতে হবে তা Shortly বলে দিচ্ছি আশা করি সবাই পরে নিবানে ।
+আমি কিভাবে কি করতে হবে টা Shortly বলে দিচ্ছি আশা করি সবাই পরে নিবানে ।
 
-তার আগে কিছু Basic command you need to know :-
+তার আগে কিছু Basic command you need to know:-
 
 1.git pull - (এই command দিয়ে আমরা remote এ কোনো নতুন branch create হলে তা Loacl machine এও পেতে পারি)।
 
@@ -22,15 +20,16 @@ So আমরা অনেকেই এখনো আমাদের github workfl
 
 এবার কাজের কথায় আসিঃ-
 ১। আমরা আমাদের project টা কে clone করার পর সবাই  প্রথম এ যে কাজটা করব তা হলো উপরের 4 no
-command টা দিয়ে development branch এ switch করে নিব ভুলেও কেও main branch এ থাকব ন।
+command টা দিয়ে development branch এ switch করে নিব ভুলেও কেও main branch এ থাকব না।
 
-২। Then আপনদর ক য কজ ট দয় হব তর নম and আপনর নজর নম দয় একট new branch create কর নব। Eample 
-যদ আপনর Task যদ registration part হয় তহল register/yourName দয় branch ট create কর নব। আর এর জনয command
-ট হব 3 no। 
+২। Then আপনাদের কে যে কাজ টা দেয়া হবে তার নাম and আপনার নিজের নাম দিয়ে একটা new branch create করে নিবো। Eample 
+যদি আপনার Task যদি registration part হয় তাহলে register/yourName দিয়ে branch টা create করে নিব। আর এর জন্য command
+টা হবে 3 no। 
 
-৩। Then ওখন আপনর নজদর কজ ট শষ কর ।  git add . then git commit -m "" কর 
-development branch টক pull কর নব (2 no command) দয় যত  updated কড ট পয় যন। এর পর আমর নজদর কড ট ক নজদর branch এ push কর দব (7 no command দয়)। এব পরতবর নজদর branch এ কড push করর আগ এই কজ ট আরকবর repeat করব।
+৩। Then ওখানে আপনারা নিজেদের কাজ টা শেষ করে ।  git add . then git commit -m "" করে 
+development branch টাকে pull করে নিব (2 no command) দিয়ে যাতে  updated কোড টা পেয়ে যান। এর পর আমরা নিজেদের কোড টা কে নিজেদের branch এ push করে দিব (7 no command দিয়ে)। এবং প্রতিবার নিজেদের branch এ কোড push করার আগে এই কাজ টা আরেকবার repeat করবো।
 
-৪। lastly আমর আমদর সবর কজ গল যখন শষ কর ফলব presentation শষ হয় যব তখন আম বলল সবই নজদর  যই যই branch create কর কজ করছলম ত locally delete কর দব (6 no command দয় করত হয়)।
+৪। lastly আমরা আমদের সবার কাজ গুলা যখন শেষ করে ফেলব presentation শেষ হয়ে যাবে তখন আমি বললে সবাই নিজেদের  যেই যেই branch create করে কাজ করেছিলাম তা locally delete করে দিব (6 no command দিয়ে করতে হয়)।
 
-এভবই কজ ট চলত থকব।
+এভাবেই কাজ টা চলতে থাকবে। 
+
