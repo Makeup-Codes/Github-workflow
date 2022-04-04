@@ -18,7 +18,9 @@ So আমরা অনেকেই এখনো আমাদের github workfl
 7.git push origin [your_Branch_Name] - (এই command দিয়ে আমরা আমাদের  branch এ code push করে  করে দিতে পারি)।
 
 
-এবার কাজের কথায় আসিঃ-
+এবার কাজের কথায় আসি:-
+
+
 ১। আমরা আমাদের project টা কে clone করার পর সবাই  প্রথম এ যে কাজটা করব তা হলো উপরের 4 no
 command টা দিয়ে development branch এ switch করে নিব ভুলেও কেও main branch এ থাকব না।
 
