@@ -3,7 +3,8 @@
 So আমরা অনেকেই এখনো আমাদের github workflow টা নিয়ে পুরোপুরি ভাবে clear না তাই
 আমি কিভাবে কি করতে হবে তা Shortly বলে দিচ্ছি আশা করি সবাই পরে নিবানে ।
 
-তার আগে কিছু Basic command you need to knowঃ-
+তার আগে কিছু Basic command you need to know :-
+
 1.git pull - (এই command দিয়ে আমরা remote এ কোনো নতুন branch create হলে তা Loacl machine এও পেতে পারি)।
 
 2.git pull origin [branch_name] - (এই command দিয়ে আমরা আমদের নিজেদের branch development বা যে কোনো branch এর updated code টা পেতে পারি)।
