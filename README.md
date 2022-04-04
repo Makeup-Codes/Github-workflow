@@ -5,9 +5,9 @@ So আমরা অনেকেই এখনো আমাদের github workfl
 
 1.git pull - (এই command দিয়ে আমরা remote এ কোনো নতুন branch create হলে তা Loacl machine এও পেতে পারি)।
 
-2.git pull origin [branch_name] - (এই command দিয়ে আমরা আমদের নিজেদের branch development বা যে কোনো branch এর updated code টা পেতে পারি)।
+2.git pull origin [branch_name] - (এই command দিয়ে আমরা আমদের নিজেদের branch  বা যে কোনো branch এর updated code টা পেতে পারি)।
 
-3.git checkout -b [TaskName/yourName] - (এই এই command দিয়ে আমরা নতুন branch create করতে পারি )।
+3.git checkout -b [TaskName/yourName] - (এই command দিয়ে আমরা নতুন branch create করতে পারি )।
 
 4.git checkout [branch_name] - (এই command দিয়ে আমরা আমাদের existing branch এ switch করতে পারি )।
 
