@@ -5,7 +5,7 @@
 
 ##### *তার আগে কিছু Basic command you need to know:-*
 
-1. `git pull` - (এই command দিয়ে আমরা remote এ কোনো নতুন branch create হলে তা Local machine এও পেতে পারি / main branch or development branch locally updated করতে ও এই command use করা হয়)।
+1. `git pull` - (এই command দিয়ে আমরা remote এ কোনো নতুন branch create হলে তা Local machine এও ে পারি অথবা main branch or development branch locally update করতে ও এই command use করা হয়)।
 
 3. `git pull origin [branch_name]` - (এই command দিয়ে আমরা আমদের নিজেদের branch  বা যে কোনো branch এর updated code টা পেতে পারি)।
 
