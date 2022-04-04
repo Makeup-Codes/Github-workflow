@@ -1,21 +1,23 @@
+### Github-Workflow
+
 So আমরা অনেকেই এখনো আমাদের github workflow টা নিয়ে পুরোপুরি ভাবে clear না তাই
 আমি কিভাবে কি করতে হবে টা Shortly বলে দিচ্ছি আশা করি সবাই পরে নিবানে ।
 
 তার আগে কিছু Basic command you need to know:-
 
-1.git pull - (এই command দিয়ে আমরা remote এ কোনো নতুন branch create হলে তা Loacl machine এও পেতে পারি)।
+1. git pull - (এই command দিয়ে আমরা remote এ কোনো নতুন branch create হলে তা Loacl machine এও পেতে পারি)।
 
-2.git pull origin [branch_name] - (এই command দিয়ে আমরা আমদের নিজেদের branch  বা যে কোনো branch এর updated code টা পেতে পারি)।
+2. git pull origin [branch_name] - (এই command দিয়ে আমরা আমদের নিজেদের branch  বা যে কোনো branch এর updated code টা পেতে পারি)।
 
-3.git checkout -b [TaskName/yourName] - (এই command দিয়ে আমরা নতুন branch create করতে পারি )।
+3. git checkout -b [TaskName/yourName] - (এই command দিয়ে আমরা নতুন branch create করতে পারি )।
 
-4.git checkout [branch_name] - (এই command দিয়ে আমরা আমাদের existing branch এ switch করতে পারি )।
+4. git checkout [branch_name] - (এই command দিয়ে আমরা আমাদের existing branch এ switch করতে পারি )।
+ 
+5. git branch - (এই এই command দিয়ে আমরা আমাদের local branch কয়টা আছে  এবং কি কি তা দেখতে পারি )।
 
-5.git branch - (এই এই command দিয়ে আমরা আমাদের local branch কয়টা আছে  এবং কি কি তা দেখতে পারি )।
+6. git branch -d [localBranchName] - (এই command দিয়ে আমরা আমাদের local branch Delete করে দিতে পারি)।
 
-6.git branch -d [localBranchName] - (এই command দিয়ে আমরা আমাদের local branch Delete করে দিতে পারি)।
-
-7.git push origin [your_Branch_Name] - (এই command দিয়ে আমরা আমাদের  branch এ code push করে  করে দিতে পারি)।
+7. git push origin [your_Branch_Name] - (এই command দিয়ে আমরা আমাদের  branch এ code push করে  করে দিতে পারি)।
 
 
 এবার কাজের কথায় আসি:-
